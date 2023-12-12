@@ -1,6 +1,8 @@
 # FlaskMetrics
 Generate Custom Metrics Using Flask
 
+Run Below Command to Start the Application:
+
 `docker-compose up --build`
 
 Once the containers are running, you can access the API at http://localhost:9099/ and the Prometheus dashboard at http://localhost:9090. 
